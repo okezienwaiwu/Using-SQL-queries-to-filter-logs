@@ -1,1 +1,1 @@
-# Using-SQL-queries-to-filter-logs
+As a cybersecurity analyst, it is my responsibility to ensure my organization’s systems, analyze and investigate all potential security issues and take necessary actions as outlined in the playbook. In this project, I practiced using SQL queries to filter logs for analysis and to perform other security-related tasks.
